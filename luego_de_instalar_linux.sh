@@ -57,3 +57,5 @@ sudo apt-get install -y spotify-client
 
 echo "Recomendaciones de instalación"
 firefox http://www.howtogeek.com/howto/35807/how-to-harmonize-your-dual-boot-setup-for-windows-and-ubuntu/ http://microchip.wikidot.com/mplabx:installation
+
+echo "Eso es todo"
